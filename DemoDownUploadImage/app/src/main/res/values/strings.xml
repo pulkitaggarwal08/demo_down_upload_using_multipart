@@ -1,0 +1,49 @@
+<resources>
+
+    <string name="app_name">DemoDownUploadImage</string>
+    <string name="upload_images">Upload Images</string>
+    <string name="download_single_image">Download Single Image</string>
+    <string name="download_multiple_images">Download Multiple Images</string>
+    <string name="upload_multiple_images">Upload Multiple Images</string>
+    <string name="images">Images</string>
+
+
+
+    <!--
+    ================================================================================================
+    Font Awsome String
+    ================================================================================================
+    -->
+    <string name="fa_text">&#xf15c;</string>
+    <string name="fa_user">&#xf007;</string>
+    <string name="fa_lock">&#xf023;</string>
+    <string name="fa_fill_circle">&#xf111;</string>
+    <string name="fa_outer_circle">&#xf10c;</string>
+    <string name="fa_user_o">&#xf007;</string>
+    <string name="fa_envelope_o">&#xf0e0;</string>
+    <string name="fa_phone">&#xf095;</string>
+    <string name="fa_lock_o">&#xf023;</string>
+    <string name="fa_home">&#xf015;</string>
+    <string name="fa_rupee">&#xf156;</string>
+    <string name="fa_fire">&#xf06d;</string>
+    <string name="fa_angle_right">&#xf054;</string>
+    <string name="fa_plus_circle">&#xf055;</string>
+    <string name="fa_globe">&#xf0ac;</string>
+    <string name="fa_signout">&#xf08b;</string>
+    <string name="fa_city">&#xf278;</string>
+    <string name="fa_state">&#xf277;</string>
+    <string name="fa_check">&#xf00c;</string>
+    <string name="fa_gst">&#xf129;</string>
+    <string name="fa_users">&#xf0c0;</string>
+    <string name="fa_regions">&#xf278;</string>
+    <string name="fa_edit">&#xf040;</string>
+    <string name="fa_trash">&#xf1f8;</string>
+    <string name="fa_calculator">&#xf1ec;</string>
+    <string name="fa_upload">&#xf093;</string>
+    <string name="fa_download">&#xf0ed;</string>
+    <string name="fa_add">&#xf067;</string>
+    <string name="fa_cancel">&#xf00d;</string>
+
+
+
+</resources>
